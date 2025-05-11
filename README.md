@@ -15,11 +15,11 @@ A simple and fun arcade-style game built with **Python** and **Pygame**. Control
 
 ### Start Screen
 
-<img src="gameplay_images/start_game.jpeg" width="500" />
+![Start Screen](gameplay_images/start_game.jpeg)
 
 ### Gameplay
 
-<img src="gameplay_images/gameplay_screen.jpeg" width="500" />
+![Gameplay](gameplay_images/gameplay_screen.jpeg)
 
 ---
 
