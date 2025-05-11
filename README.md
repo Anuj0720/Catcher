@@ -23,8 +23,6 @@ A simple and fun arcade-style game built with **Python** and **Pygame**. Control
 
 ## ▶️ How to Run
 
-## ▶️ How to Run
-
 1. Install [Python](https://www.python.org/downloads/)
 2. Install `pygame` using pip3:
    ```bash
