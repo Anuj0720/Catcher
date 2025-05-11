@@ -14,10 +14,12 @@ A simple and fun arcade-style game built with **Python** and **Pygame**. Control
 ## 📸 Screenshots
 
 ### Start Screen
-![Start Screen](gameplay_images/start_game.jpeg | width=500)
+
+<img src="gameplay_images/start_game.jpeg" width="500" />
 
 ### Gameplay
-![Gameplay](gameplay_images/gameplay_screen.jpeg | width=500)
+
+<img src="gameplay_images/gameplay_screen.jpeg" width="500" />
 
 ---
 
